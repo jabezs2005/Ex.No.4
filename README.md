@@ -356,7 +356,7 @@ Automated Compliance Testing: Implement pre-commit hooks that check for common c
 
 Regulatory Debt Register: Maintain visible backlog of compliance-related technical debt with explicit regulatory impact statements, reviewed monthly with stakeholders
 
-Evaluation:
+### Evaluation:
 
 ChatGPT: Responsive to refinement, successfully incorporated compliance constraints, pragmatic recommendations
 
@@ -375,8 +375,8 @@ ChatGPT: Suitable for most business documents, sprint summaries, team communicat
 
 Gemini: Ideal for analyzing entire project histories, regulatory documentation, complex multi-year retrospectives, compliance documentation sets
 
-RESULT
-The experiment successfully demonstrated the application of six distinct prompting techniques across two AI platforms, producing the following comparative results:
+### RESULT
+The experiment successfully demonstrated the application of six distinct prompting techniques across two AI platforms, producing the following ### comparative results:
 
 Summary of Findings
 Technique	ChatGPT (GPT-4o) Strength	Gemini (Gemini 2.5 Pro) Strength
@@ -413,7 +413,7 @@ Strategic, root-cause focused insights
 
 Recommendation: For optimal results, leverage both tools in tandem - use Gemini for diagnostic and strategic phases requiring deep analysis, and ChatGPT for executing action plans and generating polished, day-to-day communications.
 
-CONCLUSION
+### CONCLUSION
 This experiment confirms that effective prompt engineering significantly influences AI output quality. The choice of prompting technique and AI tool should align with the specific objectives:
 
 Comparative Analysis Prompts are most effective for identifying patterns and trends across multiple data points
@@ -429,4 +429,6 @@ Structures Prompt Refinements enable iterative improvement toward specific goals
 Understanding Prompt Size Limitations is crucial for selecting the appropriate tool for complex, document-intensive tasks
 
 The experiment demonstrates that no single AI tool is universally superior; rather, each has unique strengths that can be leveraged based on the specific requirements of the task at hand.
-# Result: The various types of Prompts are executed successfully with generated the report.
+
+### Result: 
+The various types of Prompts are executed successfully with generated the report.
