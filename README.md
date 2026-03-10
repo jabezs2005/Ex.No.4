@@ -1,6 +1,6 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 10.03.2026                                                                            
+### REGISTER NUMBER : 212223040070
 # AIM
 To generate a scenario-based report using various prompting techniques including Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompts, Universal Prompt Structures, Structures Prompt Refinements, and Prompt Size Limitations; analyze the outputs from two different AI tools (ChatGPT-4o and Google Gemini 2.5 Pro); and evaluate their comparative performance.
 
